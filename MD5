@@ -1,0 +1,9 @@
+f1ede029f64d94f1b16cfef0ba33feac *DESCRIPTION
+55d45e0e2da7fcf442fc8658d5dfb356 *NAMESPACE
+d46b1240ec3dca3d57f198fef27e5945 *R/Metrics.R
+6defe7bc66e567f9f25238963e0a0cb4 *R/NetDA.R
+dff2941d0f9cff77f6ce86d8c7066735 *data/WineData.RData
+9f5c2033e7f323352fd7c6bbf5949f7a *man/Metrics.Rd
+d7460e63244f28a6345fff0fc15c1d83 *man/NetDA-package.Rd
+95810a7a1de4e49ee8c189c89811e597 *man/NetDA.Rd
+3b87dfb1b82929f3b01af25a91f44833 *man/WineData.Rd
