@@ -2,7 +2,7 @@ Package: NetDA
 Type: Package
 Title: Network-Based Discriminant Analysis Subject to Multi-Label
         Classes
-Version: 0.1.0
+Version: 0.2.0
 Author: Li-Pang Chen
 Maintainer: Li-Pang Chen <lchen723@nccu.edu.tw>
 Description: Implementation of discriminant analysis with network structures in predictors accommodated to do classification and prediction.
@@ -11,6 +11,8 @@ Encoding: UTF-8
 Imports: glasso
 NeedsCompilation: yes
 LazyData: true
-Packaged: 2022-01-18 08:40:34 UTC; Li-Pang Chen
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Packaged: 2022-05-27 02:48:38 UTC; Li-Pang Chen
 Repository: CRAN
-Date/Publication: 2022-01-18 20:32:46 UTC
+Date/Publication: 2022-05-27 07:10:04 UTC
